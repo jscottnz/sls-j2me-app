@@ -1,0 +1,4 @@
+root|Main|Do I have...>doihave/How do I...>/What should I do...>/Where should I go>where|
+doihave|Do I have|Ebola>ebola/Malaria>/Influenza>|
+ebola|Ebola||Signs and symptoms typically begin abruptly within five to 10 days of infection with Ebola or Marburg virus. Early signs and symptoms include:\n\n- Fever\n- Severe headache\n- Joint and muscle aches\n- Chills\n- Weakness\n\nOver time, symptoms become increasingly severe and may include:\n\n- Nausea and vomiting\n- Diarrhea (may be bloody)\n- Red eyes\n- Raised rash\n- Chest pain and cough\n- Stomach pain\n- Severe weight loss\n- Bleeding, usually from the eyes, and bruising (people near death may bleed from other orifices, such as ears, nose and rectum)\n- Internal bleeding
+where|Where Should I go||Find you nearest health clinic

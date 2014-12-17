@@ -1,0 +1,8 @@
+MIDlet-1: SlsJ2me, , slsj2me.SlsJ2me
+MIDlet-Jar-Size: 8109
+MIDlet-Jar-URL: SLS-Sample.jar
+MIDlet-Name: SLS-Sample
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
